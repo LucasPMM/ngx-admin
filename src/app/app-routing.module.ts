@@ -55,5 +55,3 @@ const config: ExtraOptions = {
 })
 export class AppRoutingModule {
 }
-
-// Todo: Create Fisrt Component
